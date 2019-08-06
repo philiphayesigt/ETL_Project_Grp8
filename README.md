@@ -1,6 +1,6 @@
-## ETL_Project_Grp8
+# ETL_Project_Grp8
 
-# Does a good book make a good movie?
+## Does a good book make a good movie?
 
 Our goal for the ETL Project will be to create two tables, one for books and one for movies. 
 
