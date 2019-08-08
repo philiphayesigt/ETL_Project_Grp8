@@ -5,5 +5,7 @@ CREATE TABLE movies(
 	title VARCHAR(256),
 	words_in_title VARCHAR(256),
 	imdb_rating FLOAT,
-	rating_count INT
+	rating_count INT,
+	medium VARCHAR(256),
+	movie_index VARCHAR(256)
 );
