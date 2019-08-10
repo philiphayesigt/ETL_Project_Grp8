@@ -10,7 +10,10 @@ Once we have the datasets extracted, we will drop any unnecessary information an
 
 With two clean tables loaded into our database, we plan to define movies and books that share a title and pull the ratings for both mediums into one table. This allows analysis to be completed on the quality of books in relation to their film adaptation.
 
-
-
-
-
+Extracted Datasets as .csv from Kaggle
+Cleaned Excel Sheet
+Read in csv to Dataframes
+Cleaned and Transformed Dataframes
+Created sql tables
+Loaded dataframes into sql tables
+Created queries to be run in either pgAdmin or Jupyter Notebooks to use keywords to search all books or movies
