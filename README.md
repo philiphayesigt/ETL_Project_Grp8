@@ -1,6 +1,7 @@
 # ETL_Project_Grp8
 
-#### Vasudha Gangireddy and Philip Hayes
+#### Vasudha Gangireddy - ETL for GoodReads Data, Creation of Titles table and corresponding SQL Query 
+#### Philip Hayes - ETL for IMDB Movies Data
 
 
 ## Does a good book make a good movie?
